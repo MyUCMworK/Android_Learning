@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "48916505689",
+    "firebase_url": "https://forder-db249.firebaseio.com",
+    "project_id": "forder-db249",
+    "storage_bucket": "forder-db249.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48916505689:android:e37d458c109ba545",
+        "android_client_info": {
+          "package_name": "com.example.fordermn.forder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48916505689-4it7t4lcasp0e3tc7dbh9klfk4cojvuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fordermn.forder",
+            "certificate_hash": "06b19ae814e3287e97763d95d73a751c3481a016"
+          }
+        },
+        {
+          "client_id": "48916505689-ssiu0i3p11n7d91efk50vlacv1iljkut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXbTaByb5DCuF00CvbIvrBWJh4TdyH8kY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48916505689-ssiu0i3p11n7d91efk50vlacv1iljkut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
