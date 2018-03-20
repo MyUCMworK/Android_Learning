@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     defaultConfig {
         applicationId "com.example.fordermn.forder"
-        minSdkVersion 15
+        minSdkVersion 17
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"
@@ -27,9 +27,9 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
 
     //Add Library
-    compile 'com.google.firebase:firebase-core:11.8.0'
-    compile 'com.google.firebase:firebase-database:11.8.0'
-    compile 'info.hoang8f:fbutton:1.0.5'
-    compile 'com.rengwuxian.materialedittext:library:2.1.4'
+    implementation 'com.github.jd-alexander:android-flat-button:v1.1'
+    implementation 'com.google.firebase:firebase-core:11.8.0'
+    implementation 'com.google.firebase:firebase-database:11.8.0'
+    implementation 'com.rengwuxian.materialedittext:library:2.1.4'
 }
 apply plugin: 'com.google.gms.google-services'
